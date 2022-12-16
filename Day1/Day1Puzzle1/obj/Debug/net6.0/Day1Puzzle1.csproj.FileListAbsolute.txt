@@ -1,0 +1,15 @@
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\bin\Debug\net6.0\Day1Puzzle1.exe
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\bin\Debug\net6.0\Day1Puzzle1.deps.json
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\bin\Debug\net6.0\Day1Puzzle1.runtimeconfig.json
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\bin\Debug\net6.0\Day1Puzzle1.dll
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\bin\Debug\net6.0\Day1Puzzle1.pdb
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.csproj.AssemblyReference.cache
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.AssemblyInfoInputs.cache
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.AssemblyInfo.cs
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.csproj.CoreCompileInputs.cache
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.dll
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\refint\Day1Puzzle1.dll
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.pdb
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\Day1Puzzle1.genruntimeconfig.cache
+C:\Users\christian.schulze\source\repos\AdventofCode\Day1Puzzle1\Day1Puzzle1\obj\Debug\net6.0\ref\Day1Puzzle1.dll
