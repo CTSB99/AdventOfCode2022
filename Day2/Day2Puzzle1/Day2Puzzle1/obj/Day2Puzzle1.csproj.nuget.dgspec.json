@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\christian.schulze\\source\\repos\\AdventofCode\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj": {}
+    "C:\\Users\\christian.schulze\\source\\repos\\AdventOfCode2022\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\christian.schulze\\source\\repos\\AdventofCode\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj": {
+    "C:\\Users\\christian.schulze\\source\\repos\\AdventOfCode2022\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\christian.schulze\\source\\repos\\AdventofCode\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj",
+        "projectUniqueName": "C:\\Users\\christian.schulze\\source\\repos\\AdventOfCode2022\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj",
         "projectName": "Day2Puzzle1",
-        "projectPath": "C:\\Users\\christian.schulze\\source\\repos\\AdventofCode\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj",
+        "projectPath": "C:\\Users\\christian.schulze\\source\\repos\\AdventOfCode2022\\Day2\\Day2Puzzle1\\Day2Puzzle1\\Day2Puzzle1.csproj",
         "packagesPath": "C:\\Users\\christian.schulze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\christian.schulze\\source\\repos\\AdventofCode\\Day2\\Day2Puzzle1\\Day2Puzzle1\\obj\\",
+        "outputPath": "C:\\Users\\christian.schulze\\source\\repos\\AdventOfCode2022\\Day2\\Day2Puzzle1\\Day2Puzzle1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
